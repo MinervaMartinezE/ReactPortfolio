@@ -1,0 +1,15 @@
+.media-icons{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    margin:15px auto;
+    margin-top: 20px;
+    width: 5px;
+    height: 5px;
+  }
+  @media screen and (min-width: 1024px) {
+     .media-icons img {
+    width: 4rem;
+  }
+}
