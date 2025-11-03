@@ -1,6 +1,6 @@
 import React from "react";
 import "./Hero.css";
-import profesionalWoman from '../assets/profesionalWoman.jpg';
+import profesionalWoman from "../../assets/profesionalWoman.jpg";
 
 function Hero() {
   return (

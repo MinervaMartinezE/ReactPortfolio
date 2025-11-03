@@ -1,7 +1,7 @@
 import React from "react";
 import "./MediaIcons.css";
-import logoGitHub from "../assets/logoGitHub.png";
-import logoLinkedin from "../assets/logoLinkedin.png";
+import logoGitHub from "../../assets/logoGitHub.png";
+import logoLinkedin from "../../assets/logoLinkedin.png";
 
 function MediaIcons() {
   return (
